@@ -20,6 +20,7 @@
         .questioner{
             margin: 150px 200px 200px;
             left:100px;
+            width:70%
         }
     </style>
 </head>
