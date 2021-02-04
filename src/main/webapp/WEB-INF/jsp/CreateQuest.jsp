@@ -18,8 +18,8 @@
             font-family: 'Sriracha', cursive;
         }
         .questioner{
-            margin: 150px 200px 200px;
-            left:50px;
+            margin: 200px auto;
+            left:30px;
             width:70%
         }
     </style>
