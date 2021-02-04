@@ -81,14 +81,14 @@
                     0 100px 80px rgba(0, 0, 0, 0.12)
         ;
             min-height: 150px;
-            width: 50vw;
+            width: 80vw;
             margin: 75px auto;
             background: white;
             border-radius: 5px;
         }
         .boxer-1{
             min-height: 100px;
-            width: 40vw;
+            width: 60vw;
             margin: 50px auto;
             background: white;
         }
