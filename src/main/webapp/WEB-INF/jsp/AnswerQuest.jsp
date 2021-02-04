@@ -82,7 +82,7 @@
         ;
             min-height: 150px;
             width: 50vw;
-            margin: 100px auto;
+            margin: 75px auto;
             background: white;
             border-radius: 5px;
         }
