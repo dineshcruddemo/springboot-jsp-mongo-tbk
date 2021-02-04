@@ -19,7 +19,7 @@
         }
         .questioner{
             margin: 150px 200px 200px;
-            left:100px;
+            left:50px;
             width:70%
         }
     </style>
