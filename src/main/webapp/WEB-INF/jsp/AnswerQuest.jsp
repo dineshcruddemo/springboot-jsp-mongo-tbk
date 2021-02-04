@@ -42,7 +42,7 @@
             content: "";
             bottom: 15px;
             left: 10px;
-            width: 50%;
+            width: 80%;
             top: 80%;
             max-width:300px;
             background: #777;
